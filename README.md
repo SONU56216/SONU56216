@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">SONU</h1>
 
-<!--
-**SONU56216/SONU56216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+ Programmer | CSIT Student <br>
+ Cyber Security | Developer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+- 💻 CSIT Student
+- 🛡️ Learning Cyber Security
+- 🐍 Python Developer
+- 🎨 Interested in AI & Design
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,linux,vscode,github,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- Instagram
+- LinkedIn
+- Discord
