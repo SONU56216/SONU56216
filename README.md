@@ -6,42 +6,38 @@
 
 <img src="https://img.shields.io/badge/AI-Developer-00f5ff?style=for-the-badge">
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/Status-Building%20JARVIS-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-Programmer-blue?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=for-the-badge">
 
 </div>
 
 ---
 
-# 🌌 About Me
+# 🚀 About Me
 
-```python
-class SonuKumarSah:
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-    def __init__(self):
-        self.location = "Nepal 🇳🇵"
-        self.role = "AI & Full Stack Developer"
-        self.language = ["Python", "JavaScript", "HTML", "CSS"]
-        self.interests = ["AI", "Automation", "Robotics"]
-        self.current_project = "JARVIS AI Assistant"
-        self.goal = "Build a Real AI Robotics System"
+💻 Passionate Full Stack & AI Developer from Nepal 🇳🇵  
+🤖 Currently building my own AI Voice Assistant — **JARVIS**  
+🐍 Python programmer focused on AI, automation & robotics  
+🌱 Learning new technologies and improving every day  
+⚡ Interested in futuristic technology and smart systems  
+🎯 Goal: Build a real AI-powered robotics assistant
 
-    def life(self):
-        return "Code • Create • Innovate 🚀"
-```
+<br><br>
 
 ---
 
-# 🚀 Current Project
+# 🤖 Current Project
 
 <div align="center">
 
-## 🤖 JARVIS AI Assistant
+## JARVIS AI Assistant
 
-🎤 Voice Controlled AI  
-🧠 AI Conversations  
-💻 Automation System  
+🎤 Voice Commands  
+🧠 AI Chat System  
 📱 Phone Control  
+💻 Desktop Automation  
 📊 Productivity Tools  
 ⚡ Robotics Integration  
 
@@ -53,60 +49,49 @@ class SonuKumarSah:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,vscode,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode" />
 
 </div>
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SONU56216&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SONU56216&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SONU56216&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONU56216&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SONU56216&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
----
-
-# ⚡ Tools & Technologies
+<br>
 
 <div align="center">
 
-| Technology | Description |
-|---|---|
-| 🐍 Python | AI & Automation |
-| ⚛️ React | Frontend Development |
-| 🌐 Node.js | Backend Development |
-| 🧠 AI APIs | Smart Systems |
-| 🛠️ VS Code | Main IDE |
-| 🔥 Git & GitHub | Version Control |
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONU56216&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-# 🌟 Goals for 2026
-
-- 🤖 Build Real AI Robot
-- 🧠 Advanced AI Assistant
-- 🌐 Full Stack Web Apps
-- 📱 Mobile App Development
-- 🚀 Open Source Contributions
-
----
-
-# 📊 Contribution Graph
+# ⚙️ Development Tools
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SONU56216&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=vscode,github,git,linux" />
 
 </div>
+
+---
+
+# 🌟 2026 Goals
+
+✅ Improve AI Assistant  
+✅ Learn Advanced Full Stack Development  
+✅ Build Robotics Projects  
+✅ Contribute More on GitHub  
+✅ Create Real-World AI Systems
 
 ---
 
@@ -114,8 +99,7 @@ class SonuKumarSah:
 
 <div align="center">
 
-> “I’m not just learning programming.  
-> I’m building the future with AI & Robotics.”
+> “Technology becomes powerful when creativity and consistency work together.”
 
 </div>
 
@@ -126,7 +110,7 @@ class SonuKumarSah:
 <div align="center">
 
 <a href="https://github.com/SONU56216">
-<img src="https://img.shields.io/badge/GitHub-SONU56216-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-SONU56216-181717?style=for-the-badge&logo=github">
 </a>
 
 </div>
