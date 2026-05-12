@@ -1,39 +1,32 @@
-<h1 align="center">SONU</h1>
+<h1 align="center">⚡ SONU KUMAR SAH ⚡</h1>
 
 <p align="center">
- Programmer | CSIT Student <br>
- Cyber Security | Developer
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=CSIT+Student;Python+Developer;Cyber+Security+Learner;AI+%26+Automation+Enthusiast;Future+Full+Stack+Developer" />
 </p>
 
 ---
 
-## 🔥 About Me
+<div align="center">
 
-- 💻 CSIT Student
-- 🛡️ Learning Cyber Security
-- 🐍 Python Developer
-- 🎨 Interested in AI & Design
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff99&style=for-the-badge" />
 
----
-
-## 🚀 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,linux,vscode,github,mysql" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 ABOUT ME
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-- Instagram
-- LinkedIn
-- Discord
+```yaml
+Name: Sonu Kumar Sah
+Location: Nepal 🇳🇵
+Education: CSIT Student
+Focus:
+  - Python Development
+  - Cyber Security
+  - AI Tools
+  - Automation
+  - Web Development
+Currently Learning:
+  - Ethical Hacking
+  - Full Stack Development
+  - Reverse Engineering
