@@ -1,126 +1,168 @@
-<div align="center">
+# 👋 Hey, I'm Sonu Kumar Sah
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There+%F0%9F%91%8B+I'm+Sonu+Kumar+Sah;AI+Developer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+JARVIS+AI+Assistant+%F0%9F%9A%80;Future+Robotics+Engineer+%E2%9A%A1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Technology+Enthusiast;Building+Real+World+Solutions" />
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SONU56216&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
-<img src="https://img.shields.io/badge/AI-Developer-00f5ff?style=for-the-badge">
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-Programmer-blue?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=for-the-badge">
-
-</div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+🎓 CSIT Student passionate about technology and innovation.
 
-💻 Passionate Full Stack & AI Developer from Nepal 🇳🇵  
-🤖 Currently building my own AI Voice Assistant — **JARVIS**  
-🐍 Python programmer focused on AI, automation & robotics  
-🌱 Learning new technologies and improving every day  
-⚡ Interested in futuristic technology and smart systems  
-🎯 Goal: Build a real AI-powered robotics assistant
+💻 I love building:
+- Full Stack Web Applications
+- AI-powered assistants
+- Smart systems solving real-world problems
 
-<br><br>
+🌱 Currently learning:
+- Data Structures & Algorithms
+- Advanced JavaScript
+- System Design
+- Artificial Intelligence
 
----
-
-# 🤖 Current Project
-
-<div align="center">
-
-## JARVIS AI Assistant
-
-🎤 Voice Commands  
-🧠 AI Chat System  
-📱 Phone Control  
-💻 Desktop Automation  
-📊 Productivity Tools  
-⚡ Robotics Integration  
-
-</div>
+🎯 Goal:
+> To become a world-class software engineer and build impactful technology.
 
 ---
 
 # 🛠️ Tech Stack
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode" />
+### Languages
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
 
----
 
-# 📈 GitHub Analytics
+### Frontend
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SONU56216&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SONU56216&theme=tokyonight&hide_border=true&background=0D1117"/>
+### Backend & Database
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-<br>
 
-<div align="center">
+### Tools
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONU56216&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+</p>
 
-</div>
-
----
-
-# ⚙️ Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,github,git,linux" />
-
-</div>
 
 ---
 
-# 🌟 2026 Goals
+# 🚀 Featured Projects
 
-✅ Improve AI Assistant  
-✅ Learn Advanced Full Stack Development  
-✅ Build Robotics Projects  
-✅ Contribute More on GitHub  
-✅ Create Real-World AI Systems
+
+## 🌍 FixMyBlock Nepal
+
+<img align="right" width="250" src="https://user-images.githubusercontent.com/placeholder.png">
+
+A smart citizen reporting platform helping people report:
+
+- Road problems
+- Garbage issues
+- Street lights
+- Drainage problems
+
+🔥 Features:
+- Smart Duplicate Detection
+- Report Tracking
+- Location-based Reports
+- Citizen Dashboard
+
 
 ---
 
-# 🌌 Vision
+## 🤖 Nova AI Assistant
 
-<div align="center">
+A futuristic AI voice assistant.
 
-> “Technology becomes powerful when creativity and consistency work together.”
+Features:
+- Voice Interaction
+- AI Responses
+- Automation
+- Personal Assistant
 
-</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🏫 Smart Campus Digital Ecosystem
 
-<div align="center">
+A complete digital campus solution.
 
-<a href="https://github.com/SONU56216">
-<img src="https://img.shields.io/badge/GitHub-SONU56216-181717?style=for-the-badge&logo=github">
+Features:
+
+- Digital ID Card
+- Online Admission
+- Attendance System
+- GPS Campus Map
+- Digital Payments
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SONU56216&show_icons=true&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONU56216&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+---
+
+# 🏆 Achievements
+
+🥇 Hackathon Winner - First Position
+
+🚀 Built multiple real-world applications
+
+💡 Active learner in software development
+
+
+---
+
+# 📚 Currently Exploring
+
+
+---
+
+# 🤝 Let's Connect
+
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-</div>
+<a href="https://github.com/SONU56216">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
 
 ---
 
-<div align="center">
+<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SONU56216&label=Profile+Views&color=00f5ff&style=for-the-badge" />
+### "Code. Create. Innovate. 🚀"
 
-### ⭐ Thanks for visiting my profile ⭐
-
-</div>
+</p>
